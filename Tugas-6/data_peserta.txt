@@ -2,3 +2,4 @@ Data Peserta GC-INS Bootcamp Laravel Web Dev
 1. Nama: Nova Elija Barutu
 2. Email:novaelija079@gmail.com
 3. Akun Gitlab:novaelijabarutu
+4. Akun Telegram : Nova Elija Barutu
